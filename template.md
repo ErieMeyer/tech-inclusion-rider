@@ -1,64 +1,29 @@
 # Inclusion Rider Template
-March 2018
 
 ## 1. Statement of Purpose:
-* Recognizing that increasing the number of females—particularly recognizing the
-intersectional discrimination faced by females of color—and individuals from other underrepresented
-groups, auditioning for supporting roles, and casting them whenever possible in
-a manner that retains story authenticity, will facilitate employment and create a stronger
-pipeline for more diverse representation on-screen,
-* and that increasing the number of females—particularly once again recognizing the issues
-faced by females of color—and individuals from other under-represented groups,
-interviewing for certain off-screen positions, and hiring them whenever possible, will
-similarly facilitate employment and create a stronger pipeline, and will ultimately give rise to
-greater diversity off-screen,
-* ACTOR/CONTENT CREATOR requests that STUDIO makes this addendum part of the contract
-between ACTOR/CONTENT CREATOR and STUDIO on the theatrical motion picture or
-series/web content now entitled “____.”
+* Recognizing that increasing the number of women and non-binary people — particularly recognizing the
+intersectional discrimination faced by women and non-binary people of color — and individuals from other underrepresented
+groups, auditioning for supporting roles, and casting them whenever possible in a manner that retains story authenticity, will facilitate employment and create a stronger pipeline for more diverse representation on-screen,
+* and that increasing the number of women and non-binary people — particularly once again recognizing the issues
+faced by women and non-binary people of color — and individuals from other under-represented groups, interviewing for certain positions, and hiring them whenever possible, will similarly facilitate employment and create a stronger pipeline, and will ultimately give rise to greater diversity, 
+* PERSON requests that ORGANIZATION makes this addendum part of the contract between PERSON and ORGANIZATION for this PROJECT/EVENT/JOB
 
 ## 2. Definitions
   * a. The term “supporting roles” is defined as SAG-AFTRA defines that term.1
   * b. The term “studio” should be read to include the major studios, mini-majors,
 independent financiers, and distributors.
-  * c. The term “parties” means ACTOR/CONTENT CREATOR and STUDIO.
+  * c. The term “parties” means PERSON and ORGANIZATION
   * d. The term “under-represented group(s)” means people who identify themselves as
-females, people of color, disabled, Lesbian Gay Bisexual Transgender or Queer, or having a
-combination of these attributes.2
+women, non-binary, people of color, disabled, Lesbian Gay Bisexual Transgender or Queer, or having a
+combination of these attributes.
 
-## 3. Auditions/Interviews:
+## 3. Interviews:
 
-  * a. The Director and Casting Director will audition at least one female and one person from
-any other under-represented group for all supporting roles. This includes engaging in the good-faith
-consideration of casting a female in a role scripted for a man or one whose gender is unspecified.
-  * b. The individual(s) responsible for interviewing and hiring the crew will interview at least
-one female and one person from any other under-represented group for the following-off screen
-positions:3
-    * i. Development and Production: Director of Photography/Cinematographer,
-Production Designer, Sound, 1st Assistant Director, 2nd Assistant Director, Costume Designer, Line
-Producers.
-    * ii. Post-Production: Editor, Visual Effects, Composer.
-  * c. All reasonable efforts will be made to ensure individuals auditioning or interviewing who
-have a mobility disability can access the audition or interview location.
-
-## 4. Casting and Hiring Objectives:
-  * a. Casting of Supporting Roles:
-    * i. Consistent with story authenticity the geographic location and time period in which the story is set. This
-consideration may also include, but shall not be limited to, whether the film is
-based on or adapted from historical or current true events. This determination
-should also include legal considerations.
-b. Hiring Certain Off-Screen Positions: For all applicable roles, see ¶3b, the producer or
-studio shall make all reasonable efforts to fill those positions with qualified and available individuals
-who have been under-represented in that position and where those roles were not filled prior to
-involvement of ACTOR/CONTENT CREATOR.
+  * a. ORGANIZATION will interview at least one woman or person who is non-binary and one person from any other under-represented group for all roles or grants.
+  * b. All reasonable efforts will be made to ensure individuals interviewing who have a mobility disability can access the audition or interview location.
 
 ## 5. Exception:
-On the rare occasion when story authenticity precludes application of ¶¶ 3a and 4a,
-a determination which is to be made by the producer or studio in conjunction with Dr. Stacy L. Smith
-and Fanshen Cox DiGiovanni of One Drop of Love and Pearl Street Films,
-6 this Addendum will apply only
-to interviewing and hiring of off-screen roles, as specified in ¶¶ 3b and 4b. Where this exception to onscreen
-compliance is found to apply, all other terms of this Addendum continue to apply to the studio’s
-efforts to interview and hire members of under-represented groups for off-screen positions.
+On the rare occasion when this is not possible, ORGANIZATION will publish a public blog post acknowledging that the policy was broken and the steps being taken to prevent it from being broken again. 
 
 ## 6. Reporting:
 The Producer shall provide a report containing the following comprehensive data to
